@@ -43,7 +43,7 @@ ceilingEntry(k key);
 ceilingKey(k key);
 
 //小于等于这个key的第一个元素，可以想成地板及以下
-ceilingEntry(k key);
+floorEntry(k key);
 
 //大于这个键值的元素
 higherEntry
